@@ -1,0 +1,14 @@
+.profile-signup-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-submit-button-group {
+  display: flex;
+  padding: 16px;  
+}
+
+.form-submit-button-group button {
+  width: 100%;
+  margin-right: 16px;
+}
